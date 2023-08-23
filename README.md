@@ -1,5 +1,6 @@
 # BLISSY_THE_CAT
-![Alt Text](./img/Screenshot 2023-08-23 204859.png)
+![Alt Text](./img/Screenshot%202023-08-23%20204859.png)
+
 
 
 
