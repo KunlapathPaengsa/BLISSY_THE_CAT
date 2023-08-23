@@ -1,2 +1,2 @@
 # BLISSY_THE_CAT
-![Alt Text](img/cur-cat.webp)
+![Alt Text](./img/cur-cat.webp)
